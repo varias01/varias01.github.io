@@ -1,2 +1,1 @@
-# varias01.github.io
-Valentina Arias Game Development Portfolio
+Notes to be added.
