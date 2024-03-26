@@ -19,22 +19,19 @@
     </div>
     
     <main>
-      <div class="card bg-dark text-white d-flex align-items-center" style="height: 100vh;">
-        <img src="assets/Cyborg_concept_art.png" class="card-img" alt="Background Image" style="opacity: 0.3;">
-        <div class="card-img-overlay">
-          <section class="py-5 text-center container">
-            <div class="row py-lg-5">
-              <div class="col-lg-6 col-md-8 mx-auto">
-                <h1 class="display-4">Valentina Arias</h1>
-                <p class="lead text-body-secondary">Game Developer.</p>
-                <p>
-                  <a href="#" class="btn btn-primary my-2">Download Resume</a>
-                </p>
-              </div>
-            </div>
-          </section>
+
+      <section class="py-5 text-center container-fluid" style="background: linear-gradient(rgba(37, 37, 37, 0.5), rgba(0, 0, 0, 0.6)), url('assets/Cyborg_concept_art_crop.png'); background-size: cover; color: white;">
+        <div class="row py-lg-5">
+          <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="display-4">Valentina Arias</h1>
+            <p class="lead">Game Developer</p>
+            <p>
+              <a href="#" class="btn btn-primary my-2">Download Resume</a>
+            </p>
+          </div>
         </div>
-      </div>      
+      </section>
+     
     
       <div class="album py-5 bg-body-tertiary">
         <div class="container">
@@ -225,28 +222,49 @@
           <div class="row">
             <div class="col">
               <h2>Education</h2>
-              <h4>Bachelor's in Computer Science</h4>
-              <p>University XYZ, 2015 - 2019</p>
-              <h4>Master's in Game Development</h4>
-              <p>University ABC, 2019 - 2021</p>
+              <h4>Game Development Diploma</h4>
+              <p>New Brunswick Community College (NBCC), 2022 - 2024</p>
+              <h4>Bachelor's in Electronic Cybernetics</h4>
+              <p>CETYS University, 2017 - 2021, Mexico</p>
             </div>
             <div class="col">
               <h2>Work Experience</h2>
-              <h4>Junior Game Developer</h4>
-              <p>Company DEF, 2021 - 2022</p>
-              <h4>Senior Game Developer</h4>
-              <p>Company GHI, 2022 - Present</p>
+              <h4>Software V&V Trainee</h4>
+              <p>ITJuana, 2021 - 2022</p>
+              <h4>Engineering Project Management Trainee</h4>
+              <p>BOSE Corporation, 2019 - 2020</p>
             </div>
           </div>
         </div>      
-      </div>
-      <div class="card bg-dark text-white">
-        <img src="assets/Side-scroller Demo.png" class="card-img" alt="Background Image" style="opacity: 0.3;">
-        <div class="card-img-overlay">
-          <h1 class="card-title">Contact</h1>
-          <p class="card-text">Lets connect, send me a message.</p>
+      </div>  
+
+      <section class="py-5 text-center container-fluid" style="background: linear-gradient(rgba(42, 42, 42, 0.8), rgba(10, 10, 10, 0.8)), url('assets/Side-scroller\ Demo.png'); background-size: cover; color: white;">
+        <div class="jumbotron">
+          <h1 class="fw-light">Contact Me</h1>
+          <p class="lead text-body-secondary">I'd love to hear from you!</p>
+          <hr class="my-4">
         </div>
-      </div>      
+        <div class="row py-lg-5">
+          <div class="col-lg-6 col-md-8 mx-auto">
+            <form>
+              <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" class="form-control" id="name" placeholder="Your Name">
+              </div>
+              <div class="form-group">
+                <label for="email">Email address</label>
+                <input type="email" class="form-control" id="email" placeholder="name@example.com">
+              </div>
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea class="form-control" id="message" rows="3"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+          </div>
+        </div>
+      </section>     
+
     </main>
     <footer class="text-body-secondary py-5">
       <div class="container">
