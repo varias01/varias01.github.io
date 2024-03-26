@@ -1,0 +1,19 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2110480435	LaserShoot			\Default Work Unit\LaserShoot	
+	2341244186	ExplotionMedium			\Default Work Unit\ExplotionMedium	
+	2389703494	Boost			\Default Work Unit\Boost	
+	3033889968	StreamingMusic			\Default Work Unit\StreamingMusic	
+	3855833492	ExplotionLarge			\Default Work Unit\ExplotionLarge	
+	4270190620	ExplotionSmall			\Default Work Unit\ExplotionSmall	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2753384925	Shipx			\Default Work Unit\Shipx	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	119373510	ExplotionS	C:\Projects\Sound Programming\Cometblaster\.cache\Windows\SFX\Explotion_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\ExplotionS		63208
+	445973667	Laser_Shoot	C:\Projects\Sound Programming\Cometblaster\.cache\Windows\SFX\Laser_Shoot_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laser_Shoot		26416
+	446042325	Boost	C:\Projects\Sound Programming\Cometblaster\.cache\Windows\SFX\Boost_02D6D849.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boost		45766
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	333427883	Music	C:\Projects\Sound Programming\Cometblaster\.cache\Windows\SFX\Music_56D34C19.wem	333427883.wem	\Actor-Mixer Hierarchy\Default Work Unit\Music	
+

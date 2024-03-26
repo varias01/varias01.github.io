@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="89">
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Attenuations\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Audio Devices\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Cometblaster.wproj" DateLow="1681441454" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Control Surface Sessions\Default Work Unit.wwu" DateLow="1681441454" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Conversion Settings\Default Work Unit.wwu" DateLow="1681441454" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1677781104" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Effects\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Effects\Factory Effects.wwu" DateLow="1677781104" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Events\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Game Parameters\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Mixing Sessions\Default Work Unit.wwu" DateLow="1681441454" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Modulators\Default Work Unit.wwu" DateLow="1681441454" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Presets\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Queries\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Queries\Factory Queries.wwu" DateLow="1677781104" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\SoundBanks\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\States\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Switches\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Triggers\Default Work Unit.wwu" DateLow="1681441455" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projects\Sound Programming\Cometblaster\Virtual Acoustics\Default Work Unit.wwu" DateLow="1681441454" DateHigh="0"/>
+</ValidationCache>

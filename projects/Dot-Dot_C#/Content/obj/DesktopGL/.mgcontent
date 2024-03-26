@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/bg.png</File>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/bigCar.png</File>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/bigCarHit.png</File>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/bigStar.png</File>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/blank_star.png</File>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/dot.png</File>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/menus_bg.png</File>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/NotoSansGeorgian-GameTitle.spritefont</File>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/NotoSansGeorgian-SemiBold.spritefont</File>
+    <File>C:/Projects/Comparative Languages/Dot-Dot/Content/NotoSansGeorgian-Titles.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

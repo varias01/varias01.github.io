@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Projects/Comparative Languages/Dot-Dot/Content/bg.png","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/bg.xnb","TextureProcessor","Texture2DContent",56550,2160085,0.2012613
+"C:/Projects/Comparative Languages/Dot-Dot/Content/bigCar.png","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/bigCar.xnb","TextureProcessor","Texture2DContent",4012,12885,0.0026589
+"C:/Projects/Comparative Languages/Dot-Dot/Content/bigCarHit.png","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/bigCarHit.xnb","TextureProcessor","Texture2DContent",4022,12885,0.0020378
+"C:/Projects/Comparative Languages/Dot-Dot/Content/bigStar.png","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/bigStar.xnb","TextureProcessor","Texture2DContent",2944,6485,0.0081302
+"C:/Projects/Comparative Languages/Dot-Dot/Content/blank_star.png","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/blank_star.xnb","TextureProcessor","Texture2DContent",1913,1685,0.0080797
+"C:/Projects/Comparative Languages/Dot-Dot/Content/dot.png","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/dot.xnb","TextureProcessor","Texture2DContent",3248,1685,0.134846
+"C:/Projects/Comparative Languages/Dot-Dot/Content/menus_bg.png","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/menus_bg.xnb","TextureProcessor","Texture2DContent",360833,2160085,0.0621797
+"C:/Projects/Comparative Languages/Dot-Dot/Content/NotoSansGeorgian-GameTitle.spritefont","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/NotoSansGeorgian-GameTitle.xnb","FontDescriptionProcessor","SpriteFontContent",2092,529439,0.174075
+"C:/Projects/Comparative Languages/Dot-Dot/Content/NotoSansGeorgian-SemiBold.spritefont","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/NotoSansGeorgian-SemiBold.xnb","FontDescriptionProcessor","SpriteFontContent",2092,37919,0.0227931
+"C:/Projects/Comparative Languages/Dot-Dot/Content/NotoSansGeorgian-Titles.spritefont","C:/Projects/Comparative Languages/Dot-Dot/Content/bin/DesktopGL/Content/NotoSansGeorgian-Titles.xnb","FontDescriptionProcessor","SpriteFontContent",2092,70687,0.0377894

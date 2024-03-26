@@ -1,0 +1,68 @@
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\blank_star.xnb
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\dot.xnb
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\NotoSansGeorgian-SemiBold.xnb
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Dot-Dot.exe
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Dot-Dot.deps.json
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Dot-Dot.runtimeconfig.json
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Dot-Dot.dll
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Dot-Dot.pdb
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\Dot-Dot.csproj.AssemblyReference.cache
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\Dot-Dot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\Dot-Dot.AssemblyInfoInputs.cache
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\Dot-Dot.AssemblyInfo.cs
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\Dot-Dot.csproj.CoreCompileInputs.cache
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\Dot-Dot.csproj.CopyComplete
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\Dot-Dot.dll
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\refint\Dot-Dot.dll
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\Dot-Dot.pdb
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\Dot-Dot.genruntimeconfig.cache
+C:\Projects\Comparative Languages\Dot-Dot\obj\Debug\net6.0\ref\Dot-Dot.dll
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\bigCar.xnb
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\bigCarHit.xnb
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\bigStar.xnb
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\NotoSansGeorgian-GameTitle.xnb
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\NotoSansGeorgian-Titles.xnb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Content\bigCar.xnb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Content\bigCarHit.xnb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Content\bigStar.xnb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Content\blank_star.xnb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Content\dot.xnb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Content\NotoSansGeorgian-GameTitle.xnb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Content\NotoSansGeorgian-SemiBold.xnb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Content\NotoSansGeorgian-Titles.xnb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Dot-Dot.exe
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Dot-Dot.deps.json
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Dot-Dot.runtimeconfig.json
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Dot-Dot.dll
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\Dot-Dot.pdb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\Dot-Dot.csproj.AssemblyReference.cache
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\Dot-Dot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\Dot-Dot.AssemblyInfoInputs.cache
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\Dot-Dot.AssemblyInfo.cs
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\Dot-Dot.csproj.CoreCompileInputs.cache
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\Dot-Dot.csproj.CopyComplete
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\Dot-Dot.dll
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\refint\Dot-Dot.dll
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\Dot-Dot.pdb
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\Dot-Dot.genruntimeconfig.cache
+C:\Users\Valentina Arias\OneDrive\Desktop\GDev\Comparative Programming Languages\Dot-Dot-cs\Dot-Dot\obj\Debug\net6.0\ref\Dot-Dot.dll
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\bg.xnb
+C:\Projects\Comparative Languages\Dot-Dot\bin\Debug\net6.0\Content\menus_bg.xnb
