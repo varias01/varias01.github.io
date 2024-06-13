@@ -17,6 +17,10 @@
           color: #ffffff; 
           font-size: 18px;
       }
+      .d-block.w-100 {
+        height: 360px; 
+        object-fit: contain;
+      }
       </style>
   </head>
   <body>
@@ -74,7 +78,7 @@
       <section id="skills">
         <div class="container text-white p-5" style="background: linear-gradient(rgba(84, 124, 158, 0.5), rgba(108, 184, 225, 0.3));">
           <div class="jumbotron">
-            <h1 class="fw-light">Skills</h1>
+            <h2>Skills</h2>
             <hr class="my-4">
           </div>
           <div class="row">
@@ -185,19 +189,19 @@
                         <img src="assets/Project%20Screenshots/BlockDestroyer1.jpg" class="d-block w-100" alt="First slide">
                       </div>
                       <div class="carousel-item active">
-                        <img src="assets/Project%20Screenshots/BlockDestroyer2.jpg" class="d-block w-100" alt="First slide">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer2.jpg" class="d-block w-100" alt="Second slide">
                       </div>
                       <div class="carousel-item active">
-                        <img src="assets/Project%20Screenshots/BlockDestroyer3.jpg" class="d-block w-100" alt="First slide">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer3.jpg" class="d-block w-100" alt="Third slide">
                       </div>
                       <div class="carousel-item">
-                        <img src="assets/Project%20Screenshots/BlockDestroyer4.jpg" class="d-block w-100" alt="Second slide">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer4.jpg" class="d-block w-100" alt="Fourth slide">
                       </div>
                       <div class="carousel-item">
-                        <img src="assets/Project%20Screenshots/BlockDestroyer5.jpg" class="d-block w-100" alt="Third slide">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer5.jpg" class="d-block w-100" alt="Fifth slide">
                       </div>
                       <div class="carousel-item">
-                        <video id="demoVideo" class="d-block w-100" controls>
+                        <video id="demoVideo" class="d-block w-100" controls alt="Sixth slide">
                           <source src="assets/Gameplay Videos/BlockDestroyer-Gameplay.mp4" type="video/mp4">
                           The browser does not support the video.
                         </video>
@@ -229,104 +233,411 @@
 
               <div class="col">
                 <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-                  <div class="card-body">
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View on GitHub</button>
-                      </div>
-                      <small class="text-body-secondary">9 mins</small>
+                  <div id="carouselThree" class="carousel slide">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselThree" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselThree" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselThree" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                      <button type="button" data-bs-target="#carouselThree" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                      <button type="button" data-bs-target="#carouselThree" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                      <button type="button" data-bs-target="#carouselThree" data-bs-slide-to="5" aria-label="Slide 6"></button>
                     </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/Dot-Dot1.png" class="d-block w-100" alt="First slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/Dot-Dot2.png" class="d-block w-100" alt="Second slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/Dot-Dot3.jpg" class="d-block w-100" alt="Third slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/Dot-Dot4.jpg" class="d-block w-100" alt="Fourth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/Dot-Dot5.jpg" class="d-block w-100" alt="Fifth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <video id="demoVideo" class="d-block w-100" controls alt="Sixth slide">
+                          <source src="assets/Gameplay Videos/Dot-Dot-Gameplay.mp4" type="video/mp4">
+                          The browser does not support the video.
+                        </video>
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselThree" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselThree" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
+                  <div class="card-body">
+                    <p class="card-text">In Dot-Dot the star is, well, a dot! Jump in your lane, or between lanes to avoid the incoming traffic, all while trying to capture the valuable stars. </p>
+                    <p class="card-text"><b>Languages: </b> Python (Pygame), C# (Monogame)</p>
+                    <p class="card-text"><b>Tools: </b> Eclipse, Visual Studio, Photoshop</p>
+                    <p class="card-text"><b>Credits:</b> Designed by me. Original graphics.</p>
+                      <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                          <a href="https://github.com/varias01/varias01.github.io/tree/main/projects/Dot-Dot_Python" class="btn btn-sm btn-outline-secondary" target="_blank">View on GitHub Python</a>
+                          <a href="https://github.com/varias01/varias01.github.io/tree/main/projects/Dot-Dot_C%23" class="btn btn-sm btn-outline-secondary" target="_blank">View on GitHub C#</a>
+                        </div>
+                        <small class="text-body-secondary">2023</small>
+                      </div>
                   </div>
                 </div>
               </div>
       
               <div class="col">
                 <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-                  <div class="card-body">
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View on GitHub</button>
-                      </div>
-                      <small class="text-body-secondary">9 mins</small>
+                  <div id="carouselFour" class="carousel slide">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselFour" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselFour" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselFour" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                      <button type="button" data-bs-target="#carouselFour" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                      <button type="button" data-bs-target="#carouselFour" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                      <button type="button" data-bs-target="#carouselFour" data-bs-slide-to="5" aria-label="Slide 6"></button>
                     </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/CookieRun1.jpg" class="d-block w-100" alt="First slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/CookieRun2.jpg" class="d-block w-100" alt="Second slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/CookieRun3.jpg" class="d-block w-100" alt="Third slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/CookieRun4.jpg" class="d-block w-100" alt="Fourth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/CookieRun5.jpg" class="d-block w-100" alt="Fifth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <video id="demoVideo" class="d-block w-100" controls alt="Sixth slide">
+                          <source src="assets/Gameplay Videos/CookieRun-Gameplay.mp4" type="video/mp4">
+                          The browser does not support the video.
+                        </video>
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselFour" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselFour" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
+                  <div class="card-body">
+                    <p class="card-text">In this simple game you are a cookie trying to survive in the kitchen. Run from side to side to avoid the obstacles and pass the levels. How long can you survive?</p>
+                    <p class="card-text"><b>Languages: </b> C++</p>
+                    <p class="card-text"><b>Tools: </b> Visual Studio, Photoshop</p>
+                    <p class="card-text"><b>Credits:</b> Designed by me. Original graphics.</p>
+                      <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                          <a href="https://github.com/varias01/varias01.github.io/blob/main/projects/Cookie_Run.zip" class="btn btn-sm btn-outline-secondary" target="_blank">View on GitHub</a>
+                        </div>
+                        <small class="text-body-secondary">2023</small>
+                      </div>
                   </div>
                 </div>
               </div>
+
               <div class="col">
                 <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-                  <div class="card-body">
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View on GitHub</button>
-                      </div>
-                      <small class="text-body-secondary">9 mins</small>
+                  <div id="carouselFive" class="carousel slide">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselFive" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselFive" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselFive" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                      <button type="button" data-bs-target="#carouselFive" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                      <button type="button" data-bs-target="#carouselFive" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                      <button type="button" data-bs-target="#carouselFive" data-bs-slide-to="5" aria-label="Slide 6"></button>
                     </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/GhostHunters1.jpg" class="d-block w-100" alt="First slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/GhostHunters2.jpg" class="d-block w-100" alt="Second slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/GhostHunters3.jpg" class="d-block w-100" alt="Third slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/GhostHunters4.jpg" class="d-block w-100" alt="Fourth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/GhostHunters5.jpg" class="d-block w-100" alt="Fifth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <video id="demoVideo" class="d-block w-100" controls alt="Sixth slide">
+                          <source src="assets/Gameplay Videos/GhostHunters-Gameplay.mp4" type="video/mp4">
+                          The browser does not support the video.
+                        </video>
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselFive" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselFive" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
+                  <div class="card-body">
+                    <p class="card-text">Ghost Hunters is an “Angry Birds” style game where you shoot energy cannon balls at green ghosts. When the ghosts receive enough damage, they disappear. Get all the ghosts to win the game! </p>
+                    <p class="card-text"><b>Languages: </b> C++</p>
+                    <p class="card-text"><b>Tools: </b> Visual Studio, Photoshop</p>
+                    <p class="card-text"><b>Credits:</b> Designed by me. Original and royalty free graphics.</p>
+                      <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                          <a href="https://github.com/varias01/varias01.github.io/tree/main/projects/Ghost_Hunters_C%2B%2B" class="btn btn-sm btn-outline-secondary" target="_blank">View on GitHub</a>
+                        </div>
+                        <small class="text-body-secondary">2023</small>
+                      </div>
                   </div>
                 </div>
               </div>
+
               <div class="col">
                 <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-                  <div class="card-body">
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View on GitHub</button>
-                      </div>
-                      <small class="text-body-secondary">9 mins</small>
+                  <div id="carouselSix" class="carousel slide">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselSix" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselSix" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselSix" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                      <button type="button" data-bs-target="#carouselSix" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                      <button type="button" data-bs-target="#carouselSix" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                      <button type="button" data-bs-target="#carouselSix" data-bs-slide-to="5" aria-label="Slide 6"></button>
                     </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer1.jpg" class="d-block w-100" alt="First slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer2.jpg" class="d-block w-100" alt="Second slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer3.jpg" class="d-block w-100" alt="Third slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer4.jpg" class="d-block w-100" alt="Fourth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer5.jpg" class="d-block w-100" alt="Fifth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <video id="demoVideo" class="d-block w-100" controls alt="Sixth slide">
+                          <source src="assets/Gameplay Videos/BlockDestroyer-Gameplay.mp4" type="video/mp4">
+                          The browser does not support the video.
+                        </video>
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselSix" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselSix" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
+                  <div class="card-body">
+                    <p class="card-text">A variation of “Arkanoid” with just as much fun! Green and grey blocks are special, the green triggers multiple balls and the grey one slows them down. </p>
+                    <p class="card-text"><b>Languages: </b> C++</p>
+                    <p class="card-text"><b>Tools: </b> Visual Studio, Photoshop</p>
+                    <p class="card-text"><b>Credits:</b> Designed by me. Original and royalty free graphics.</p>
+                      <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                          <a href="https://github.com/varias01/varias01.github.io/tree/main/projects/Block_Destroyer_C%2B%2B" class="btn btn-sm btn-outline-secondary" target="_blank">View on GitHub</a>
+                        </div>
+                        <small class="text-body-secondary">2023</small>
+                      </div>
                   </div>
                 </div>
               </div>
       
               <div class="col">
                 <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-                  <div class="card-body">
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View on GitHub</button>
-                      </div>
-                      <small class="text-body-secondary">9 mins</small>
+                  <div id="carouselSeven" class="carousel slide">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselSeven" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselSeven" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselSeven" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                      <button type="button" data-bs-target="#carouselSeven" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                      <button type="button" data-bs-target="#carouselSeven" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                      <button type="button" data-bs-target="#carouselSeven" data-bs-slide-to="5" aria-label="Slide 6"></button>
                     </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer1.jpg" class="d-block w-100" alt="First slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer2.jpg" class="d-block w-100" alt="Second slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer3.jpg" class="d-block w-100" alt="Third slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer4.jpg" class="d-block w-100" alt="Fourth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer5.jpg" class="d-block w-100" alt="Fifth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <video id="demoVideo" class="d-block w-100" controls alt="Sixth slide">
+                          <source src="assets/Gameplay Videos/BlockDestroyer-Gameplay.mp4" type="video/mp4">
+                          The browser does not support the video.
+                        </video>
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselSeven" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselSeven" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
+                  <div class="card-body">
+                    <p class="card-text">A variation of “Arkanoid” with just as much fun! Green and grey blocks are special, the green triggers multiple balls and the grey one slows them down. </p>
+                    <p class="card-text"><b>Languages: </b> C++</p>
+                    <p class="card-text"><b>Tools: </b> Visual Studio, Photoshop</p>
+                    <p class="card-text"><b>Credits:</b> Designed by me. Original and royalty free graphics.</p>
+                      <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                          <a href="https://github.com/varias01/varias01.github.io/tree/main/projects/Block_Destroyer_C%2B%2B" class="btn btn-sm btn-outline-secondary" target="_blank">View on GitHub</a>
+                        </div>
+                        <small class="text-body-secondary">2023</small>
+                      </div>
                   </div>
                 </div>
               </div>
+
               <div class="col">
                 <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-                  <div class="card-body">
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View on GitHub</button>
-                      </div>
-                      <small class="text-body-secondary">9 mins</small>
+                  <div id="carouselEight" class="carousel slide">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselEight" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselEight" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselEight" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                      <button type="button" data-bs-target="#carouselEight" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                      <button type="button" data-bs-target="#carouselEight" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                      <button type="button" data-bs-target="#carouselEight" data-bs-slide-to="5" aria-label="Slide 6"></button>
                     </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer1.jpg" class="d-block w-100" alt="First slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer2.jpg" class="d-block w-100" alt="Second slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer3.jpg" class="d-block w-100" alt="Third slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer4.jpg" class="d-block w-100" alt="Fourth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer5.jpg" class="d-block w-100" alt="Fifth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <video id="demoVideo" class="d-block w-100" controls alt="Sixth slide">
+                          <source src="assets/Gameplay Videos/BlockDestroyer-Gameplay.mp4" type="video/mp4">
+                          The browser does not support the video.
+                        </video>
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselEight" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselEight" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
+                  <div class="card-body">
+                    <p class="card-text">A variation of “Arkanoid” with just as much fun! Green and grey blocks are special, the green triggers multiple balls and the grey one slows them down. </p>
+                    <p class="card-text"><b>Languages: </b> C++</p>
+                    <p class="card-text"><b>Tools: </b> Visual Studio, Photoshop</p>
+                    <p class="card-text"><b>Credits:</b> Designed by me. Original and royalty free graphics.</p>
+                      <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                          <a href="https://github.com/varias01/varias01.github.io/tree/main/projects/Block_Destroyer_C%2B%2B" class="btn btn-sm btn-outline-secondary" target="_blank">View on GitHub</a>
+                        </div>
+                        <small class="text-body-secondary">2023</small>
+                      </div>
                   </div>
                 </div>
               </div>
+
               <div class="col">
                 <div class="card shadow-sm">
-                  <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-                  <div class="card-body">
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">View on GitHub</button>
-                      </div>
-                      <small class="text-body-secondary">9 mins</small>
+                  <div id="carouselNine" class="carousel slide">
+                    <div class="carousel-indicators">
+                      <button type="button" data-bs-target="#carouselNine" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                      <button type="button" data-bs-target="#carouselNine" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                      <button type="button" data-bs-target="#carouselNine" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                      <button type="button" data-bs-target="#carouselNine" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                      <button type="button" data-bs-target="#carouselNine" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                      <button type="button" data-bs-target="#carouselNine" data-bs-slide-to="5" aria-label="Slide 6"></button>
                     </div>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer1.jpg" class="d-block w-100" alt="First slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer2.jpg" class="d-block w-100" alt="Second slide">
+                      </div>
+                      <div class="carousel-item active">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer3.jpg" class="d-block w-100" alt="Third slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer4.jpg" class="d-block w-100" alt="Fourth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="assets/Project%20Screenshots/BlockDestroyer5.jpg" class="d-block w-100" alt="Fifth slide">
+                      </div>
+                      <div class="carousel-item">
+                        <video id="demoVideo" class="d-block w-100" controls alt="Sixth slide">
+                          <source src="assets/Gameplay Videos/BlockDestroyer-Gameplay.mp4" type="video/mp4">
+                          The browser does not support the video.
+                        </video>
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselNine" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselNine" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
+                  <div class="card-body">
+                    <p class="card-text">A variation of “Arkanoid” with just as much fun! Green and grey blocks are special, the green triggers multiple balls and the grey one slows them down. </p>
+                    <p class="card-text"><b>Languages: </b> C++</p>
+                    <p class="card-text"><b>Tools: </b> Visual Studio, Photoshop</p>
+                    <p class="card-text"><b>Credits:</b> Designed by me. Original and royalty free graphics.</p>
+                      <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                          <a href="https://github.com/varias01/varias01.github.io/tree/main/projects/Block_Destroyer_C%2B%2B" class="btn btn-sm btn-outline-secondary" target="_blank">View on GitHub</a>
+                        </div>
+                        <small class="text-body-secondary">2023</small>
+                      </div>
                   </div>
                 </div>
               </div>
+
             </div>
           </div>
         </div>
